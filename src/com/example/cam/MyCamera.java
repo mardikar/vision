@@ -71,7 +71,7 @@ public class MyCamera extends CraftARActivity {
 				// TODO Auto-generated method stub
 				takePicture();
 			}
-		}, 1000, 20000);
+		}, 1000, 10000);
 	}
 
 	protected void takePicture() {
